@@ -4,7 +4,7 @@
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🔭 I’m currently working on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
-- 🌱 I'm currently learing **C#** and **Git**
+- 🌱 I'm currently learning **C#** and **Git**
 - 💬 Ask me About **C#, Python and Linux**
 <p align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scacchetti07&theme=cobalt&hide_border=true" alt="scacchetti07" /></p>
