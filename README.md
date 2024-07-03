@@ -1,6 +1,6 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif))]
 <h1 align="center">Hey 👋, I'm luis scacchetti</h1>
 <h3 align="center">Back-End programmer and practicing to be FullStack</h3>
-<img align="right" alt="relaxing" width=400 src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
 
 - 🔭 I’m currently working on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
 
