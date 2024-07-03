@@ -30,7 +30,7 @@
   </a>
 </p>
 
-## <img src="#" width="30"> **Stats:** 
+## <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30"> **Stats:** 
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=scacchetti07&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="scacchetti07"/>
