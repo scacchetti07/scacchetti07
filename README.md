@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
 - 🌱 I'm currently learning **C#** and **Git**
 - 💬 Ask me About **C#, Python and Linux**
-- ⚡ Fun fact **Gym and Games are my passion**
+- ⚡ Fun fact **Stay Natty Kids!**
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scacchetti07&theme=cobalt&hide_border=true" alt="scacchetti07" />
 </div>
