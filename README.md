@@ -6,7 +6,7 @@
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🔭 I’m currently working on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
-- 🌱 I'm currently learning **C sharp**, **AvaloniaUI** and **Git**
+- 🌱 I'm currently learning **AvaloniaUI**, **Git**, **MongoDB**
 - 💬 Ask me About **C#, Python and Linux**
 - ⚡ Fun fact **I'm Studying to have a better communicate!**
 <div align="center">
