@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Luís+Scacchetti!;" />
 </h1>
-<h3 align="center">I'm a Brazilian Back-End Developer 🇧🇷</h3>
-
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🔭 I’m currently working on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
@@ -27,12 +25,6 @@
 <a href="https://www.linkedin.com/in/lfscacchetti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
-
-## <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30"> **Stats:** 
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scacchetti07&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="scacchetti07"/>
-</div>
+</p>>
 
 
