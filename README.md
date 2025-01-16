@@ -6,9 +6,6 @@
 - 🔭 I worked on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
 - 🌱 I'm currently learning **PostgreeSQL**
 - ⚡ Fun fact **I'm Studying to have a better communicate!**
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scacchetti07&theme=cobalt&hide_border=true" alt="scacchetti07" />
-</div>
 
 ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
