@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=1000&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey+Users+%F0%9F%91%8B;I'm+Scacchetti;I'm+from+Brazil" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=1000&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey+Users+%F0%9F%91%8B;I'm+Scacchetti+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Welcome+To+My+Profile!" alt="Typing SVG" />
 </h1>
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
