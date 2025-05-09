@@ -1,27 +1,23 @@
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=1000&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey+Users+%F0%9F%91%8B;I'm+Scacchetti+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Welcome+To+My+Profile!" alt="Typing SVG" />
-</h1>
-
-## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
-- 🔭 I worked on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
-- 🌱 I'm currently learning **Java Script and Node.js**
-- ⚡ Fun fact **I'm a determinate person, and I'm always in a new challenge**
-
-## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,python,mongodb,git,linux,figma" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scacchetti07&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="scacchetti07" "/>
-    <br>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=200&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey+Users+%F0%9F%91%8B;I'm+Luís+Scacchetti+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Welcome+To+My+Profile!" alt="Typing SVG" />
+</div>
+<p>I'm software developer and passionate of personal improvement, I love to explore and learn new things and put myself in a new and different situation. I'm always try thinking in a way to solve real develop problems when they come. This profile is my space to show what I've done and developing, nowadays I'm studying new technologies and explore the Linux world using Pop! OS, always with the goal of learning and sharing knowledge.
+
+## <img src="https://media.tenor.com/gzUCcAzk51YAAAAi/gemoi.gif" width="30"> **Github Stats**
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scacchetti07&layout=donut&theme=tokyonight&hide_border=true" title="Minha Stack" width="325"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=scacchetti07&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" title="My Stats" />
 </div>
 
-## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Reach out Me:** 
-<p align="center">
-  <a href="mailto:luiscacchetti07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<a href="https://www.linkedin.com/in/lfscacchetti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</p>
+## <img src="https://media.tenor.com/e71bz32B3AcAAAAi/cute-cats.gif" width="40"> **Language and Tools:** 
+<img src="https://skillicons.dev/icons?i=cs,python,dotnet,rider,vscode,figma,github,git,linux" />
 
+## <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> **Databases:** 
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
+## <img src="https://media.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif" width="35"> **Current Learning:** 
+<img src="https://skillicons.dev/icons?i=js,html,css,arduino,neovim,postgres" />
+
+## <img src="https://media.tenor.com/g_H8FV4karAAAAAi/dialing-stan-marsh.gif" width="35"> **Social:**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lfscacchetti/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luiscacchetti07@gmail.com)
