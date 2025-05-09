@@ -4,8 +4,8 @@
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🔭 I worked on [ranGO! Stock Management System](https://github.com/scacchetti07/ranGO)
-- 🌱 I'm currently learning **Data Structures and Algorithms**
-- ⚡ Fun fact **I won a prize with my rango prototype software!**
+- 🌱 I'm currently learning **Java Script and Node.js**
+- ⚡ Fun fact **I'm a determinate person, and I'm always in a new challenge**
 
 ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
