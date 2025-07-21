@@ -13,10 +13,10 @@
 <img src="https://skillicons.dev/icons?i=cs,python,dotnet,html,css,js,rider,vscode,figma,github,git,linux" />
 
 ## <img src="https://media.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif" width="35"> **Current Learning:** 
-<img src="https://skillicons.dev/icons?i=nodejs,arduino,neovim,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,arduino,neovim" />
 
 ## <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> **Databases:** 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 
 
 ## <img src="https://media.tenor.com/g_H8FV4karAAAAAi/dialing-stan-marsh.gif" width="35"> **Social:**
