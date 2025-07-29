@@ -2,6 +2,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=200&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey+Users+%F0%9F%91%8B;I'm+Luís+Scacchetti+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Welcome+To+My+Profile!" alt="Typing SVG" />
 </div>
 <p>I'm software developer and passionate of personal improvement, I love to explore, learn new things and put myself outside of confort zone. When I start a project, I usually try to think what is the best way to develop and make this project different and special. At the beginning of the middle year I started using Fedora 42 linux to improve my knowledge in OS and my coding productivity. I used to code in C#, Python and Node using Fedora 42 Linux as my primary operational system.  
+
 ## <img src="https://media.tenor.com/gzUCcAzk51YAAAAi/gemoi.gif" width="30"> **Github Stats**
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scacchetti07&layout=donut&theme=tokyonight&hide_border=true" title="Minha Stack" width="325"/>
