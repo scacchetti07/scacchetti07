@@ -10,10 +10,10 @@
 </div>
 
 ## <img src="https://media.tenor.com/e71bz32B3AcAAAAi/cute-cats.gif" width="40"> **Language and Tools:** 
-<img src="https://skillicons.dev/icons?i=cs,python,dotnet,html,css,js,rider,vscode,figma,github,git,linux" />
+<img src="https://skillicons.dev/icons?i=cs,python,dotnet,js,git,linux" />
 
 ## <img src="https://media.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif" width="35"> **Current Learning:** 
-<img src="https://skillicons.dev/icons?i=nodejs,discordjs,neovim,aiscript" />
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
 
 ## <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> **Databases:** 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
