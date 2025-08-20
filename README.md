@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=cs,python,dotnet,js,nodejs,git,linux,discordjs" />
 
 ## <img src="https://media.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif" width="35"> **Current Learning:** 
-<img src="https://skillicons.dev/icons?i=react,ts" />
+<img src="https://skillicons.dev/icons?i=react,ts,arch,aws" />
 
 ## <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> **Databases:** 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
