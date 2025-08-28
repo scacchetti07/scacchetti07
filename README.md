@@ -1,7 +1,7 @@
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&pause=200&color=2E68DF&center=true&vCenter=true&width=435&lines=Hey,+Welcome+%F0%9F%91%8B;You+can+call+me+Luís+Scacchetti!;Brazilian+Developer+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
-<p>Hello! I'm software developer and passionate of personal improvement, I love to explore, learn new things and put myself outside of confort zone. When I start a project, I usually think when I'm coding for the best practices on Cleancode and SOLID to develop correctly and make this project different and special for the user. Recently in a search for more privacy and productive, I installed Fedora 42 and Endeavour OS as my main OS for work and studys since July of 2025. I'm learning and improving more bash script and how Linux work using normally, not just in specific cases. </p>
+<p>Hello! I'm software developer and passionate of personal improvement, I love to explore, learn new things and put myself outside of confort zone. When I start a project, I usually think what is the best practices to code based on Cleancode and SOLID to develop correctly and make this project different and special for the user. Recently in a search for more privacy and productive, I installed Fedora 42 and Endeavour OS as my main OS for work and studies since July of 2025. I'm learning more about bash script and improving how I manage my Linux.  </p>
 
 ![Access to the ranGO! first version](https://github.com/scacchetti07/ranGO-v1.0)
 
