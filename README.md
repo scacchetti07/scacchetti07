@@ -5,22 +5,23 @@
 
 ![Access to the ranGO! first version](https://github.com/scacchetti07/ranGO-v1.0)
 
-<h2><img src="https://media.tenor.com/z2uPpUM8v5MAAAAi/gify-na-dobranoc.gif" width="25"> Overview:</h2>
+<!--<h2><img src="https://media.tenor.com/z2uPpUM8v5MAAAAi/gify-na-dobranoc.gif" width="25"> Overview:</h2>
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=scacchetti07&show_icons=true&theme=transparent&hide_border=true&hide=issues"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scacchetti07&layout=donut&hide_progress=true&theme=transparent&hide_border=true&exclude_rep=dotfiles" width="350"/>
-</div>
+</div>-->
 
 <h2><img src="https://media.tenor.com/Q7lSE4S7YdoAAAAi/minecraft-tools.gif" width="35"> Stack and Tools:</h2>
 <div>
-   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,nodejs,discordjs,git,linux&perline=5" />
+   <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react,nodejs,html,css,dotnet,git,linux&perline=6" />
 </div>
-
-<h2> <img src="https://media.tenor.com/3n-ASJF-Y9YAAAAi/reading-read.gif" width="35"> Learning:</h2> 
-<img src="https://skillicons.dev/icons?i=react,vite,ts,arch,aws&perline=5" />
 
 <h2> <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> Databases:</h2>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+
+<!--<h2> <img src="https://media.tenor.com/3n-ASJF-Y9YAAAAi/reading-read.gif" width="35"> Projects:</h2> -->
+
+
 
 
 <h2> <img src="https://media.tenor.com/b9sLchXkHzAAAAAi/icon-cute.gif" width="40"> Contact me:</h2>
