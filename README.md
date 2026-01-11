@@ -17,7 +17,7 @@
 </div>
 
 <h2> <img src="https://media.tenor.com/UaBq8N2Z46wAAAAj/add-disc-pc.gif" width="35" height="32"> Databases:</h2>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
 <!--<h2> <img src="https://media.tenor.com/3n-ASJF-Y9YAAAAi/reading-read.gif" width="35"> Projects:</h2> -->
 
